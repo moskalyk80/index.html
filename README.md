@@ -32,5 +32,15 @@
 <a href="#">Статистика</a>&nbsp; &nbsp;
 <a href="#">Зареєстровані</a></b>
 </font>
-
+<font size="5" color="navy"><h2>Новини</h2></font>
+<font size="5" >
+<ul>
+<li><a href="#">Сайт будівельної компанії </a></li>
+<li><a href="#">Сайт ТМ "Новашкола" </a></li>
+<li><a href="#">Редизайн сайту classno.com.ua</a></li>
+<li><a href="#">Розробка CMS для Metro Cash&Carry</a></li>
+<li><a href="#">Сайт-візитка дизайнера інтерфейсів</a></li><br>
+<p align="right"><a href="#">інші...</a></p>
+</ul>
+</font>
 
