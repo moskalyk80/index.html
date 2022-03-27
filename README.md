@@ -24,3 +24,13 @@
 <td colspan="2" valign="middle" height="90">(Низ сайта)</td>
 </tr>
 </table>
+<!-- Горизонтальне меню -->
+<font size="4"><b>
+<a href="#">Головна</a>&nbsp;&nbsp;
+<a href="#">Фотогалерея</a>&nbsp;&nbsp;
+<a href="#">Телефони</a>&nbsp; &nbsp;
+<a href="#">Статистика</a>&nbsp; &nbsp;
+<a href="#">Зареєстровані</a></b>
+</font>
+
+
